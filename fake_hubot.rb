@@ -18,6 +18,6 @@ get '/readyness' do
   'ready'
 end
 
-get '/hubot' do
+get '/' do
   "hello from hubot"
 end
