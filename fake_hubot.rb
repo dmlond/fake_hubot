@@ -19,5 +19,5 @@ get '/readyness' do
 end
 
 get '/' do
-  "hello from hubot"
+  "hello from fake hubot"
 end
